@@ -4,7 +4,7 @@ summary: Images of Ceramic Coated Motorcycles
 date: 2025-01-09
 weight: 2
 aliases: ["/papermod-features"]
-author: [Matthew  Tuazon"]
+author: ["Matthew  Tuazon"]
 ---
 
 ### About Us
@@ -21,9 +21,8 @@ author: [Matthew  Tuazon"]
 
 ### Honda PCX
 
-| ![Image 1](images/pcx/1.jpg) | ![Image 2](images/pcx/2.jpg) | 
-|---------------------------------|---------------------------------|---------------------------------|
-
+| [![Image 1](images/pcx/1.jpg)](https://www.facebook.com/share/p/15hRHT6846/) | ![Image 2](images/pcx/2.jpg)|
+|---------------------------------|---------------------------------|
 ---
 
 ### Honda ADV

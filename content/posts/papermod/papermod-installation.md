@@ -1,6 +1,6 @@
 ---
 title: "South Moto Care"
-summary: Read aboout the services provided by South Moto Care
+summary: Read about the services provided by South Moto Care
 date: 2025-01-09
 series: ["PaperMod"]
 weight: 1
@@ -40,3 +40,11 @@ Bring out the best in your vehicle’s look and protection with our top-notch ce
 
 | ![MC Service](/smc-motor.jpg) | ![Car Service](/smc-car.jpg) | 
 |---------------------------------|---------------------------------|---------------------------------|
+
+---
+
+## Watch Our Services in Action! 🎥
+
+Skip right to the best part! Watch our services in action starting at 10:30:
+
+{{< youtube NWEO0hMb9vY>}}
