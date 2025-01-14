@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on South Moto Care</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on South Moto Care</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ceramic</title>
-      <link>http://localhost:1313/tags/ceramic/</link>
+      <link>//localhost:1313/tags/ceramic/</link>
       <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ceramic/</guid>
+      <guid>//localhost:1313/tags/ceramic/</guid>
       <description></description>
     </item>
     <item>
       <title>SMC</title>
-      <link>http://localhost:1313/tags/smc/</link>
+      <link>//localhost:1313/tags/smc/</link>
       <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/smc/</guid>
+      <guid>//localhost:1313/tags/smc/</guid>
       <description></description>
     </item>
   </channel>
