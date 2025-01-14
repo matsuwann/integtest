@@ -21,7 +21,7 @@ author: ["Matthew  Tuazon"]
 
 ### Honda PCX
 
-| [![Image 1](images/pcs/1.jpg)](https://www.facebook.com/share/p/15hRHT6846/) | ![Image 2](images/pcx/2.jpg)|
+| [![Image 1](images/pcx/1.jpg)](https://www.facebook.com/share/p/15hRHT6846/) | ![Image 2](images/pcx/2.jpg)|
 |---------------------------------|---------------------------------|
 ---
 
